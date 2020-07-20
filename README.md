@@ -66,7 +66,7 @@ For that we use `git clone https://github.com/{YOUR USERNAME}/git_training.git`
 
 As you can see in the diagram below, this copies the _Remote Repository_ into two places, your _Working Directory_ and the _Local Repository_. 
 Now you see how git is _distributed_ version control. The _Local Repository_ is a copy of the _Remote_ one, and acts just like it. The only difference is that you don't share it with anyone. 
-
+Making a change
 What `git clone` also does, is create a new folder wherever you called it. There should be a `git_training` folder now. Open it. 
 
 ![Cloning the remote repo](img/clone.png)
